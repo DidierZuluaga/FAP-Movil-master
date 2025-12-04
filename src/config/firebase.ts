@@ -5,12 +5,12 @@ import { getStorage } from 'firebase/storage';
 
 // REEMPLAZA ESTOS VALORES CON TUS CREDENCIALES DE FIREBASE
 const firebaseConfig = {
-  apiKey: "AIzaSyDdIVKBORjxavuVzCCkbe0oQJCoEj1b0DM",
-  authDomain: "fap-movil.firebaseapp.com",
-  projectId: "fap-movil",
-  storageBucket: "fap-movil.firebasestorage.app",
-  messagingSenderId: "336287696603",
-  appId: "1:336287696603:web:7aa678df0388861625eefe"
+  apiKey: ,
+  authDomain: ,
+  projectId: ,
+  storageBucket: ,
+  messagingSenderId: ,
+  appId: 
 };
 
 // Inicializar Firebase
